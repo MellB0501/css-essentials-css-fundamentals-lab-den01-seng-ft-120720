@@ -12,8 +12,9 @@ p {
   text-align: center;
 }
 
-#featured-property {
-  image-align: center;
+img {
+  display: block;
+  margin-left: ;
 }
 
 a {
