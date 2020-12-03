@@ -29,3 +29,8 @@ div {
   text-align: center;
   width: 25%;
 }
+
+#details {
+  display: block;
+  
+}
