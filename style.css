@@ -21,3 +21,9 @@ a {
   padding-right: 10px;
   background-color: orange;
 }
+
+div {
+  background-color: yellow;
+  text-align: center;
+  width: 25%;
+}
