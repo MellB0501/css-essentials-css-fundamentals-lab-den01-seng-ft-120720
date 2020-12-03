@@ -13,6 +13,6 @@ p {
 }
 
 img {
-  image-orientation: (angle | auto);
+  image-orientation: auto;
 }
 
